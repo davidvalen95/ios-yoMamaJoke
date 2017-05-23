@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.(refreshJoke(sender : UIButton?) -&gt; ()).(closure #1).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "attributedText.string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

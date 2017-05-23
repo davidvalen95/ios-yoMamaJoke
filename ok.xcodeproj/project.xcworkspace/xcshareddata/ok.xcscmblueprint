@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "58A8DA74-DA3B-492F-A836-9A00651D07F9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : "Projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ok",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tries\/MyPlayground\/ok\/ok.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.26.5.12\/dchat-4.2.0",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6"
+    }
+  ]
+}
