@@ -1,0 +1,35 @@
+ok/ViewController.swift:87:        label.translatesAutoresizingMaskIntoConstraints = false
+ok/ViewController.swift:101:        button.translatesAutoresizingMaskIntoConstraints = false
+ok/ViewController.swift:113:        temp.translatesAutoresizingMaskIntoConstraints = false
+ok/ViewController.swift:165:                self._labelJoke.attributedText = NSAttributedString(string: json["joke"] as? String ?? "default", attributes: self._labelJoke.attributedText!.attributes(at: 0, effectiveRange: nil))
+ok.xcodeproj/project.pbxproj:45:		4430D49D1ED3DF01005F5E06 /* okTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = okTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+ok.xcodeproj/project.pbxproj:48:		4430D4A81ED3DF02005F5E06 /* okUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = okUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+ok.xcodeproj/project.pbxproj:93:				4430D49D1ED3DF01005F5E06 /* okTests.xctest */,
+ok.xcodeproj/project.pbxproj:94:				4430D4A81ED3DF02005F5E06 /* okUITests.xctest */,
+ok.xcodeproj/project.pbxproj:166:			productReference = 4430D49D1ED3DF01005F5E06 /* okTests.xctest */;
+ok.xcodeproj/project.pbxproj:167:			productType = "com.apple.product-type.bundle.unit-test";
+ok.xcodeproj/project.pbxproj:184:			productReference = 4430D4A81ED3DF02005F5E06 /* okUITests.xctest */;
+ok.xcodeproj/project.pbxproj:185:			productType = "com.apple.product-type.bundle.ui-testing";
+ok.xcodeproj/project.pbxproj:192:			attributes = {
+ok.xcodeproj/project.pbxproj:196:				TargetAttributes = {
+ok.xcodeproj/project.xcworkspace/xcshareddata/ok.xcscmblueprint:8:  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+ok.xcodeproj/project.xcworkspace/xcuserdata/suryasoft.xcuserdatad/xcdebugger/Expressions.xcexplist:4:   <ContextStates>
+ok.xcodeproj/project.xcworkspace/xcuserdata/suryasoft.xcuserdatad/xcdebugger/Expressions.xcexplist:13:   </ContextStates>
+ok.xcodeproj/xcuserdata/suryasoft.xcuserdatad/xcschemes/ok.xcscheme:36:               BuildableName = "okTests.xctest"
+ok.xcodeproj/xcuserdata/suryasoft.xcuserdatad/xcschemes/ok.xcscheme:46:               BuildableName = "okUITests.xctest"
+okTests/okTests.swift:10:@testable import ok
+okTests/okTests.swift:16:        // Put setup code here. This method is called before the invocation of each test method in the class.
+okTests/okTests.swift:20:        // Put teardown code here. This method is called after the invocation of each test method in the class.
+okTests/okTests.swift:24:    func testExample() {
+okTests/okTests.swift:25:        // This is an example of a functional test case.
+okTests/okTests.swift:26:        // Use XCTAssert and related functions to verify your tests produce the correct results.
+okTests/okTests.swift:29:    func testPerformanceExample() {
+okTests/okTests.swift:30:        // This is an example of a performance test case.
+okUITests/okUITests.swift:16:        // Put setup code here. This method is called before the invocation of each test method in the class.
+okUITests/okUITests.swift:18:        // In UI tests it is usually best to stop immediately when a failure occurs.
+okUITests/okUITests.swift:20:        // UI tests must launch the application that they test. Doing this in setup will make sure it happens for each test method.
+okUITests/okUITests.swift:23:        // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
+okUITests/okUITests.swift:27:        // Put teardown code here. This method is called after the invocation of each test method in the class.
+okUITests/okUITests.swift:31:    func testExample() {
+okUITests/okUITests.swift:32:        // Use recording to get started writing UI tests.
+okUITests/okUITests.swift:33:        // Use XCTAssert and related functions to verify your tests produce the correct results.
