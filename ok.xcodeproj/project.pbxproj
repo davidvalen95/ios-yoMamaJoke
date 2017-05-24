@@ -196,7 +196,7 @@
 				TargetAttributes = {
 					4430D4881ED3DEFC005F5E06 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = APBDD5283Y;
+						DevelopmentTeam = VKR5HN9EDW;
 						ProvisioningStyle = Automatic;
 					};
 					4430D49C1ED3DF01005F5E06 = {
@@ -417,7 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = APBDD5283Y;
+				DEVELOPMENT_TEAM = VKR5HN9EDW;
 				INFOPLIST_FILE = ok/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rumahproject.ok;
@@ -430,7 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = APBDD5283Y;
+				DEVELOPMENT_TEAM = VKR5HN9EDW;
 				INFOPLIST_FILE = ok/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rumahproject.ok;
@@ -516,6 +516,7 @@
 				4430D4B31ED3DF02005F5E06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4430D4B41ED3DF02005F5E06 /* Build configuration list for PBXNativeTarget "okTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				4430D4B61ED3DF02005F5E06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4430D4B71ED3DF02005F5E06 /* Build configuration list for PBXNativeTarget "okUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				4430D4B91ED3DF02005F5E06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,21 +1,28 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "22AF7B115695A9F494AA32ED0C5B31DFE58B46DE",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : 9223372036854775807
+    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : 9223372036854775807,
+    "22AF7B115695A9F494AA32ED0C5B31DFE58B46DE" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "58A8DA74-DA3B-492F-A836-9A00651D07F9",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : "Projects\/"
+    "ff0bb4cb-26e6-4bb7-b847-d276f098bbc6" : "..\/..",
+    "22AF7B115695A9F494AA32ED0C5B31DFE58B46DE" : "yoMamaJoke\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "ok",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tries\/MyPlayground\/ok\/ok.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ok.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/davidvalen95\/ios-yoMamaJoke.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22AF7B115695A9F494AA32ED0C5B31DFE58B46DE"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.26.5.12\/dchat-4.2.0",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
